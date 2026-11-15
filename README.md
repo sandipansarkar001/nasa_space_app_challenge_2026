@@ -41,7 +41,7 @@ Space exploration doesn't end when a mission terminates. Across the Moon, Mars, 
 ## 🛠️ Tech Stack & Tools
 * **Core Web:** HTML5, CSS3, JavaScript
 * **Data Sources:** NASA Official Archives & Space Mission Datasets
-* **Design & Pitch:** Canva, ChatGPT, Gemini API (for optimization and bug fixing)
+* **CODING FIXING TOOLS:**Gemini API (for optimization and bug fixing),Chatgpt
 * **Hosting & Version Control:** GitHub
 
 ---
